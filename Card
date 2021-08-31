@@ -1,0 +1,43 @@
+<div class="row">
+								
+								<div class="col-sm-3 col-lg-3">
+									<div class="card mb-3">
+									<img class="card-img-top" src="img/cheesysteak.png">
+										<div class="card-body">
+										<h3 class="card-title"> Pizza Cheesy Steak </h5>
+										<p class="card-text"> Vanaf €5,- </p>
+										 <a href="bestellen.html" class="btn btn-warning">Bestel nu!</a>
+										</div>
+									</div>
+								</div>
+								<div class="col-sm-3 col-lg-3">
+									<div class="card mb-3">
+									<img class="card-img-top" src="img/quattro.png">
+										<div class="card-body">
+										<h3 class="card-title"> Quattro Fromaggi </h5>
+										<p class="card-text"> Vanaf €5,- </p>
+										 <a href="bestellen.html" class="btn btn-warning">Bestel nu!</a>
+										</div>
+									</div>
+								</div>
+									<div class="col-sm-3 col-lg-3">
+									<div class="card mb-3">
+									<img class="card-img-top" src="img/vegetariano.png">
+										<div class="card-body">
+										<h3 class="card-title"> Vegetariano Vegan </h5>
+										<p class="card-text"> Vanaf €5,- </p>
+										 <a href="bestellen.html" class="btn btn-warning">Bestel nu!</a>
+										</div>
+									</div>
+								</div>
+									<div class="col-sm-3 col-lg-3">
+									<div class="card mb-3">
+									<img class="card-img-top" src="img/deluxe.png">
+										<div class="card-body">
+										<h3 class="card-title"> Sopranos Deluxe </h5>
+										<p class="card-text"> Vanaf €5,- </p>
+										 <a href="bestellen.html" class="btn btn-warning">Bestel nu!</a>
+										</div>
+									</div>
+								</div>
+							</div>
